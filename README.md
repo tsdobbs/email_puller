@@ -9,7 +9,7 @@ Originally written to pull all of the emails sent to my Gmail account from a par
 - imaplib and email libraries (included in Python 2.7)
 
 ## Setup:  
-Using Gmail, just create a file called 'config.txt' in the same directory as the script with two lines:
+If using Gmail, just create a file called 'config.txt' in the same directory as the script with two lines:
   - Username of the account you're trying to log into
   - Password for that account  
   
